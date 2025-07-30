@@ -1,0 +1,6 @@
+.env/
+.idea/
+/models/convnet_from_scratch.keras
+/models/convnet_from_scratch_with_augmentation.keras
+/05C_dogs_vs_cats_cnn_and_data_augmentation.ipynb
+/requirements.yml

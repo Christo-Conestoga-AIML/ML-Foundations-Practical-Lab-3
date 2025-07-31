@@ -1,1 +1,3 @@
 *.keras filter=lfs diff=lfs merge=lfs -text
+models/custom_cnn_best_model.keras filter=lfs diff=lfs merge=lfs -text
+models/vgg16_finetuned.keras filter=lfs diff=lfs merge=lfs -text
